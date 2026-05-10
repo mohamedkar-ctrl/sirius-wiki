@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "fr-FR",
-    baseUrl: "sirius-wiki.github.io",
+    baseUrl: "mohamedkar-ctrl.github.io/sirius-wiki",
     ignorePatterns: [
       // Système
       "private", ".obsidian", "_wiki_*", "*.base", "mempalace.yaml", "_ged_backup",
